@@ -1,3 +1,9 @@
+deepin-screensaver (6.5.13) unstable; urgency=medium
+
+  * fix(ci): pass App secrets to release workflow
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Wed, 04 Nov 2026 14:32:49 +0800
+
 deepin-screensaver (6.5.12) unstable; urgency=medium
 
   * fix: update Arabic (ar) translations
